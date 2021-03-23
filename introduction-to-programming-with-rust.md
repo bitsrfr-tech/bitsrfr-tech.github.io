@@ -2,6 +2,7 @@
 layout: page
 title: Introduction to Programming with Rust
 permalink: /intro-to-programming-rust/
+exclude: true
 ---
 
 # Contents
