@@ -2,7 +2,6 @@
 layout: post
 title: "Fix onTapGesture Not Detecting Taps (SwiftUI)"
 date: 2021-02-25
-categories: iOS, Swift, SwiftUI, Apple
 ---
 
 If you are trying to use SwiftUI's .onTapGesture() to run some code when the user taps, and the code is not running, you are not alone. [Many iOS developers have run into this issue](https://developer.apple.com/forums/thread/652258?login=true#reply-to-this-question). I was one them until I came across .simultaneousGesture().
