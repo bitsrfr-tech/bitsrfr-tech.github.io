@@ -28,7 +28,7 @@ url: "https://bitsrfr.com" # the base hostname & protocol for your site, e.g. ht
 github_username:  josephkreydt
 
 # Build settings
-theme: dinky
+theme: minima
 plugins:
   - jekyll-feed
 
